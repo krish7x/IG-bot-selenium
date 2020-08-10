@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-import time
 from secrets import pw
+import time
 import re
 
 
@@ -159,8 +159,8 @@ class InstagramBot():
 my_bot = InstagramBot("krish7x", pw)
 # my_bot.followWithUsername("jlo")
 # my_bot.unfollowWithUsername("jlo")
-my_bot.getUserFollowers("krish7x", 212)
-my_bot.getUserFollowings("krish7x", 393)
+my_bot.getUserFollowers("krish7x", 215)
+my_bot.getUserFollowings("krish7x", 402)
 my_bot.mutualFollowers()
 my_bot.nonFollowing()
 my_bot.nonFollowers()

@@ -1,2 +1,7 @@
 secrets.py
 chromedriver.exe
+followers.txt
+followings.txt
+mutual.txt
+non-followers.txt
+non-following.txt
